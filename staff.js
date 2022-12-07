@@ -1,8 +1,12 @@
 /**
- * 员工相关数据
+ * 员工相关数据 v1.0
  */
-    // 员工档案
+
+
+// 员工档案
 const staffTableId = 'staff';
+
+
 /**
  * 获取员工列表
  * @param pageIndex 页码
